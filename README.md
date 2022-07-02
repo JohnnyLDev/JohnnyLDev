@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-I am **Junhee Lee**, from **Ottawa, ON, Canada**. I'm currently studying **Computer Programming** at Algonquin College to pursue my future career as a **Java developer** or a **Web developer** for co-op terms and after graduating the college!
+I am **Junhee Lee**, from **Ottawa, ON, Canada**. I'm currently studying **Computer Programming** at Algonquin College to pursue my future career as a **developer** after graduating the college!
 
 <br>
 
